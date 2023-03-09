@@ -1,0 +1,19 @@
+.formulario {
+    width: 300px;
+    border: 3px solid beige;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+    margin-bottom: 10px
+}
+
+.formulario button{
+    width: 120px;
+}
+
+.form-card {
+    border: 3px solid beige; 
+    border-radius: 10px;
+}
